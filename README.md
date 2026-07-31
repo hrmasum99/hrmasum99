@@ -21,7 +21,7 @@
 
 💬 Ask me about **NestJS, Node.js, C++, C#, Java, PostgreSQL, or System Architecture**
 
-⚡ Fun fact **I enjoy DIY projects and crafting in my free time. It's a great way to unwind and think creatively**
+⚡ Fun fact **I enjoy DIY projects and crafting in my free time. It's a great way to unwind and think creatively.**
 
  </div>
  
