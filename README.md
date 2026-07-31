@@ -21,7 +21,7 @@
 
 💬 Ask me about **NestJS, Node.js, C++, C#, Java, PostgreSQL, or System Architecture**
 
-⚡ Fun fact **I enjoy DIY projects and crafting in my free time. It's a great way to unwind and think creatively.**
+⚡ Fun fact **I enjoy DIY projects and crafting in my free time. It's a great way to unwind and think creatively**
 
  </div>
  
@@ -52,14 +52,26 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2>🏆 Developer Scoreboard & Trophies 🏆</h2>
+  <br/>
+  <!-- GitHub Trophies acting as an Achievement Scoreboard -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hrmasum99&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies Scoreboard" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🐍 Contribution Eater Game 🐍</h2>
+  <p align="center"><i>The snake grows its tail as it consumes each contribution block!</i></p>
+  <br/>
 <br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrmasum99/hrmasum99/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrmasum99/hrmasum99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrmasum99/hrmasum99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrmasum99/hrmasum99/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
   <br/><br/>
@@ -78,10 +90,10 @@
 <br/>
 
 <div align="center">
-  <!-- GitHub Overall Stats (Using fast mirror to prevent timeouts) -->
+  <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=hrmasum99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   
-  <!-- GitHub Top Languages Card (Using fast mirror to prevent timeouts) -->
+  <!-- GitHub Top Languages Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hrmasum99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
