@@ -2,16 +2,20 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    # Run automatically every 24 hours
+    - cron: "0 */24 * * *" 
+  
+  # Allows manual triggering from Actions tab
   workflow_dispatch:
+  
   push:
     branches:
-      - main
-      - master
+    - main
+    - master
 
 jobs:
   generate:
-    permissions:
+    permissions: 
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -24,6 +28,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-neon.svg?palette=github-dark&color_snake=#c084fc&color_dots=#1e1e2e,#3b0764,#6b21a8,#9333ea,#c084fc
           
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
